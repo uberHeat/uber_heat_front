@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KlR3jdw/Fr8J30Ygpq7tsU/YMUq11TTy0TnHzfYHxccd2efSOKjGpHMOdXe2FOr8qtLxZ+ldOuLm7QCSQHm8QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\benja\\source\\repos\\UberHeat\\UberHeat.Web\\UberHeat.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\benja\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
